@@ -11,38 +11,41 @@ This app provides a robust shopping experience, allowing users to **browse categ
 ---
 
 ## Screenshots
+![AppDemoSShot](https://github.com/user-attachments/assets/964e4f7c-5be3-4357-b1b7-0eb1021ea41a)
 
 ### Home Screen
-![Home Screen](path_to_image/home_screen.png)
+![Home Screen](screenshots/sc2.png)
 
 ### Product Details
-![Product Details](path_to_image/product_details.png)
+![Product Details](screenshots/sc3.png)
 
 ### Favorites
-![Favorites](path_to_image/favorites.png)
+![Favorites](screenshots/sc8.png)
 
 ### Cart
-![Cart](path_to_image/cart.png)
+![Cart](screenshots/sc9.png)
 
 ### Login/Sign-Up
-![Login/Sign-Up](path_to_image/login_signup.png)
+![Login/Sign-Up](screenshots/sc1.png)
 
 ### Search & Filters
-![Search and Filters](path_to_image/search_filters.png)
+![Search and Filters](screenshots/sc6.png)
+
+![Search and Filters](screenshots/sc7.png)
 
 ### Profile
-![Profile](path_to_image/profile.png)
+![Profile](screenshots/sc10.png)
 
 ---
 
 ## Tech Stack
 - **Flutter**: For building a responsive and cross-platform application.
 - **Dart**: Core programming language for Flutter development.
-- **Firebase**: Authentication and database (if applicable).
+- **Firebase**: User Authentication.
 - **Hive Database**: Local storage for offline capabilities.
 - **API Integration**: For dynamic product data fetching.
 - **MVVM Architecture**: For clean and scalable code organization.
-- **State Management**: Provider or GetX for state handling.
+- **State Management**: Provider for state handling.
 
 ---
 
