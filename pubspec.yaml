@@ -1,0 +1,68 @@
+name: practise_app
+description: "just for practise and learn new things"
+
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+  http: ^1.2.2
+  flutter_rating_bar: ^4.0.1
+  flutter_slidable: ^3.1.1
+  hive: ^2.2.3
+  path_provider: ^2.1.5
+  flutter_screenutil: ^5.9.3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/
+     - assets/json/nike_shoe.json
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
