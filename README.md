@@ -5,8 +5,23 @@ Welcome to the **Shopping E-Commerce App** repository! This app offers a seamles
 ---
 
 ## Features
+**Responsive UI:** Optimized for both Android and Web platforms, offering a smooth and adaptive shopping experience.
 
-This app provides a robust shopping experience, allowing users to **browse categorized products such as Men’s, Women’s and Young's Shoes** with real-time data fetched from APIs, manage their **favorite items and cart** with dynamic updates, and enjoy personalized **profiles with orders, coupons, and settings**. The app is built with **MVVM architecture** for scalability, **uses Hive database** for offline capabilities, and includes **advanced search and filtering options by gender, categories, price, and brand**. Users can securely **log in via email or social accounts, view detailed product pages with size selection and descriptions, and proceed to checkout**with a streamlined cart interface. Designed for performance, **the app offers an attractive UI**, responsive navigation, and efficient local data storage for a superior user experience.
+**Categorized Products:** Browse through Men’s and Women’s Shoes with real-time data dynamically fetched from APIs.
+
+**Advanced Search & Filters:** Quickly find products with advanced search options and filter them by gender, categories, price range, and brand.
+
+**Favorites Management:** Save products to your favorites list for quick access and easy management.
+
+**Cart Functionality:** Add items to your cart with dynamic updates and proceed to checkout seamlessly.
+
+**Product Details:** View detailed product pages with descriptions, size selection, and pricing information.
+
+**Personalized Profile:** Access and manage orders, coupons, settings, and other profile options in one place.
+
+**Secure Login Options:** Sign in securely via email or social accounts like Google and Facebook.
+
+**Offline Capability:** Hive database ensures data persistence and smooth functionality even when offline.
 
 ---
 
